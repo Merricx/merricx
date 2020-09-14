@@ -7,4 +7,4 @@
 
 - 🚩 I play Capture the Flag with team **אלוף**
 
-- 📫 How to reach me: [t.me/merricx](Telegram)
+- 📫 How to reach me: [t.me/merricx](t.me/merricx)
