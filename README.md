@@ -3,8 +3,8 @@
 
 - 🌱 I’m currently studying in **Universitas Negeri Semarang**
 
-- 📝 I sometimes write articles on [merricx.github.io/blog](merricx.github.io/blog)
+- 📝 I sometimes write articles on [merricx.github.io/blog](https://merricx.github.io/blog)
 
 - 🚩 I play Capture the Flag with team **אלוף**
 
-- 📫 How to reach me: [t.me/merricx](t.me/merricx)
+- 📫 How to reach me: [Telegram](https://t.me/merricx)
