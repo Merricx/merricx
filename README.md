@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Imam Uasa (merricx)</h1>
 <h3 align="center">An IT Security Enthusiast with interests on Web Security and Cryptography</h3>
 
-- 🌱 I’m currently studying in **Universitas Negeri Semarang**
+- 🌱 I’m currently learning **Elliptic Curve Cryptography**
 
 - 📝 I sometimes write articles on [merricx.github.io/blog](https://merricx.github.io/blog)
 
