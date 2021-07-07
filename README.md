@@ -1,1 +1,1 @@
-<h3 align="center"> CRYPTO IS NOT CRYPTOCURRENCY ಠ_ಠ </h3>
+<h3 align="center"> CRYPTO IS NOT CRYPTOCURRENCY (ノ°益°)ノ彡┻━┻ </h3>
